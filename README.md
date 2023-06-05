@@ -3,7 +3,7 @@
 ![Version](https://img.shields.io/badge/version-v1.0.0-ff69b4)
 
 <div align="center">
-<h1>** Titulo de la receta **</h1>
+<h1>** PASTA DE CAMARONES **</h1>
 </div>
 
 
@@ -24,10 +24,14 @@
     <li><a href="#galeria">Galería de imagenes</a></li>
     <li><a href="#retos">Los retos que enfrentamos como equipo :</a>
       <ul>
-          <li>Integrante 1</li>
-          <li>Integrante 2</li>
-          <li>Integrante 3</li>
+          <li>Uriel Vera</li>
+          <li>Josue Colin</li>
+          <li>Marco Angeles</li>
           <li>Integrante 4</li>
+          <li>Integrante 5</li>
+          <li>Integrante 6</li>
+          <li>Integrante 7</li>
+          <li>Integrante 8</li>
       </ul>
     </li>
   </ol>
@@ -42,18 +46,22 @@
   
   ```sh
   
-| Ingrediente           | Cantidad          | 
-| -----------------     | ---------------   | 
-| 1.- ingrediente       | 3 pzas            | 
-| 2.- ingrediente       | 5 oz              | 
-| 3.- ingrediente       | 3 cdas            | 
-| 4.- ingrediente       | 3 pzas            | 
- 
+| Ingrediente                                | Cantidad                 | 
+| ----------------------------               | ---------------          | 
+| 1.- Lata de leche Evaporada CARNATION      | 1 lata                   | 
+| 2.- Ajo en polvo                           | 1 cucharada              | 
+| 3.- Consome de pollo                       | 1 cubo                   | 
+| 4.- Paquete de pasta                       | 1 paquete                | 
+| 5.- Aceite de maiz                         | 1 cucharada              | 
+| 6.- Camarones cocidos                      | 250 gramos               | 
+|         (sin cabeza pelados y limpios)     |                          | 
+| 7.- Queso crema                            | 190 gramos               | 
+| 8.- Agua                                   | 1 taza                   | 
   
   ```
   
 </div>
-
+###################################################################
 <div>
    <a name="proc"></a>
  <h1> Procedimiento </h1>
@@ -94,7 +102,7 @@
 <a name="retos"></a>
 <h1>Retos</h1>  
 <div align="left">
-  <p>pedro: </p>
+  <p>Marco: "Primer experiencia en la programación, un nuevo reto para mi, pero con la ayuda de comandos actuales, es mucho mas fácil que lo que alguna vez yo estudie" </p>
   <p>juan: </p>
   <p>miguel: </p>
   <p>pancho: </p> 
