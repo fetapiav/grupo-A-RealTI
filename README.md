@@ -96,11 +96,11 @@
 <div align="center">
 <a name="galeria"></a>
 <h1>Galeria de imagenes</h1>  
-<img  src="images/presentacion_pasta.jpg" width="250px"/>
-<img  src="images/pasta_camarones2.jpg" width="250px"/>
-<img  src="images/pasta_camarones3.jpg" width="250px"/>  
-<img  src="images/pasta_camarones.jpg" width="250px"/> 
-<img  src="images/spaguetti_camarones.jpg" width="250px"/>
+<img  src="images/presentacion_pasta.JPG" width="250px"/>
+<img  src="images/pasta_camarones2.JPG" width="250px"/>
+<img  src="images/pasta_camarones3.JPG" width="250px"/>  
+<img  src="images/pasta_camarones.JPG" width="250px"/> 
+<img  src="images/spaguetti_camarones.JPG" width="250px"/>
 </div>
 
 <div align="center">
