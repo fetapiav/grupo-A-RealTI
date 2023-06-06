@@ -27,7 +27,7 @@
           <li>Uriel Vera</li>
           <li>Josue Colin</li>
           <li>Marco Angeles</li>
-          <li>Integrante 4</li>
+          <li>Fernando Tapia</li>
           <li>Integrante 5</li>
           <li>Integrante 6</li>
           <li>Integrante 7</li>
