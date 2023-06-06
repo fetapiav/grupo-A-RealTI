@@ -16,9 +16,9 @@
     <li>
       <a href="#proc">Procedimiento</a>
       <ul>
-          <li>titulo Paso 1</li>
-          <li>titulo Paso 2</li>
-          <li>titulo Paso 3</li>
+          <li>1.- Calienta</li>
+          <li>2.- Licúa</li>
+          <li>3.- Saltea</li>
       </ul>
     </li>
     <li><a href="#galeria">Galería de imagenes</a></li>
@@ -61,31 +61,35 @@
   ```
   
 </div>
-###################################################################
+
 <div>
    <a name="proc"></a>
  <h1> Procedimiento </h1>
  
- <h3>paso 1</h3>
+ <h3>Calienta</h3>
     
   ```sh
- poner algo en la olla
+ 1.- Calienta el aceite en una sartén y fríe los camarones
  
   
   ```
   
- <h3>paso 2</h3>
+ <h3>Licúa</h3>
  
  ```sh
- poner algo en la olla
+ 2.- Para la salsa, licúa el queso crema con al Leche Evaporada CARNATION, el cubo de consomé de pollo, ajo en polvo y el agua
  
+
   ```
- <h3>paso 3</h3>
+ <h3>Saltea</h3>
 
 ```sh
- poner algo en la olla
+3.- Coloca en una sartén el spaguetti, previamente cocido y escurrido, y los camarones
  
-  
+
+ 4.- agrega la salsa, mezcla y calienta por 5 minutos. Ofrece. y...
+
+  ¡Disfruta!
   ```
 <div>
   
@@ -103,7 +107,7 @@
 <h1>Retos</h1>  
 <div align="left">
   <p>Marco: "Primer experiencia en la programación, un nuevo reto para mi, pero con la ayuda de comandos actuales, es mucho mas fácil que lo que alguna vez yo estudie" </p>
-  <p>juan: </p>
+  <p>Geddiel: Aprender al nuevo y poder aplicarlo es sumamente satisfactorio.</p>
   <p>miguel: </p>
   <p>pancho: </p> 
 </div>
