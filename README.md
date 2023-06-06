@@ -95,12 +95,12 @@
   
 <div align="center">
 <a name="galeria"></a>
-<h1>Galeria de imagenes</h1>  
-<img  src="images/presentacion_pasta.JPG" width="250px"/>
-<img  src="images/pasta_camarones2.JPG" width="250px"/>
-<img  src="images/pasta_camarones3.JPG" width="250px"/>  
-<img  src="images/pasta_camarones.JPG" width="250px"/> 
-<img  src="images/spaguetti_camarones.JPG" width="250px"/>
+<h1>¡Galeria de imagenes con pastas de muchos paises da click en ellas!</h1>  
+<a title="Europa" href="https://ayeryhoyrevista.com/el-origen-de-la-pasta-en-europa/"><img  src="images/presentacion_pasta.JPG" width="250px"/></a>
+<a title="Asia" href="https://www.cocinista.es/web/es/enciclopedia-cocinista/ingredientes-del-mundo/pastas-asiaticas.html"><img  src="images/pasta_camarones2.JPG" width="250px"/></a>
+<a title="EUA" href="https://eldiariony.com/2021/11/03/los-platillos-de-pasta-mas-famosos-en-estados-unidos/"><img  src="images/pasta_camarones3.JPG" width="250px"/></a>
+<a title="Mexico" href="https://www.mexicoenmicocina.com/sopas/pastas/"><img  src="images/pasta_camarones.JPG" width="250px"/></a> 
+<a title="Italia" href="https://www.traveler.es/gastronomia/articulos/los-mejores-platos-de-pasta-de-italia/5280"><img  src="images/spaguetti_camarones.JPG" width="250px"/></a>
 </div>
 
 <div align="center">
@@ -113,7 +113,11 @@
   <p>pancho: </p> 
 </div>
 </div>
-
+  
+  
+<h3 align="center">¡¡ Dale click a la imagen y mira la magia !!</h3>
+  
+[![Alt text](images/presentacion_pasta.JPG)](https://www.youtube.com/watch?v=8BaCHL0zKLU)
 
 
 <p align="right">(<a href="#top">Volver al menu</a>)</p>
