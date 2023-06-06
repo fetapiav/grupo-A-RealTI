@@ -96,10 +96,11 @@
 <div align="center">
 <a name="galeria"></a>
 <h1>Galeria de imagenes</h1>  
-<img  src="images/caldo.jpeg" width="250px"/>
-<img  src="images/caldo.jpeg" width="250px"/>
-<img  src="images/caldo.jpeg" width="250px"/>  
-<img  src="images/caldo.jpeg" width="250px"/>  
+<img  src="images/presentacion_pasta.jpeg" width="250px"/>
+<img  src="images/pasta_camarones2.jpeg" width="250px"/>
+<img  src="images/pasta_camarones3.jpeg" width="250px"/>  
+<img  src="images/pasta_camarones.jpeg" width="250px"/> 
+<img  src="images/spaguetti_camarones.jpeg" width="250px"/>
 </div>
 
 <div align="center">
